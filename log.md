@@ -1,5 +1,7 @@
 # 💯 100 Days Of Code - Log 
 
+##**LOG MAINTAINED SEPARATELY under https://github.com/sndpwrites/100-days-of-code/blob/master/log.md**
+
 **Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").**
 ***
 **Target** : ***Learn and Code for atleast 1 hour everyday for 100 days***
